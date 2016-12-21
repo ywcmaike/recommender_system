@@ -1,3 +1,3 @@
-使用scrapy框架爬取微博数据存储到mongodb中，利用numpy/tensorflow等python库对数据进行处理（基于transE算法），形成推荐系统。使用flask框架实现系统的可视化。（还在开发中）
+使用scrapy框架爬取微博数据存储到mongodb中，利用numpy/tensorflow等python库对数据进行处理（基于transE算法），形成推荐系统。使用springboot、springmvc等框架实现系统的可视化。（还在开发中）
 
 
